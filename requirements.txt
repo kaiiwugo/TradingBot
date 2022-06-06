@@ -1,6 +1,0 @@
-Python-binance
-TA-Lib
-jumpy
-websocket_client
-Gspread
-GSpread formatting 
