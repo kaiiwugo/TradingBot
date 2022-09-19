@@ -1,0 +1,2 @@
+Python-binance
+websocket_client
